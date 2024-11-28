@@ -1,5 +1,5 @@
 def main():
-    print('ZOV')
+    print('Hello')
     # добавлен комментарий
 
 if __name__ == "__main__":
